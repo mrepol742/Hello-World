@@ -1,7 +1,7 @@
-#include <iostream>
+#include <stdio.h>
 
 int main ()
 {
   printf ("Hello, world!\x0A");
-  return 0x00;
+  return 0;
 }
