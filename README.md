@@ -39,6 +39,7 @@ This Github Public Repository contains Hello World Programs written in all Compu
 - PL | Perl Programming Language
 - PS1 | PowerShell
 - PY | Python High-Level Programming Language
+- R | R Programming Language
 - RB | Ruby High-Level Programming Language
 - RS | Rust Programming Language
 - SH | Shell
