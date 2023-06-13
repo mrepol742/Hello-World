@@ -1,12 +1,8 @@
-# Hello World!
+# Hello-World!
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub contributors](https://img.shields.io/github/contributors/mrepol742/Hello_World)](https://github.com/mrepol742/Hello_World/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/mrepol742/Hello_World)](https://github.com/mrepol742/Hello_World/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/mrepol742/Hello_World/pulls) [![HitCount](https://views.whatilearened.today/views/github/mrepol742/Hello_World.svg)](https://github.com/mrepol742/Hello_World) 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub contributors](https://img.shields.io/github/contributors/mrepol742/Hello_World)](https://github.com/mrepol742/Hello_World/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/mrepol742/Hello_World)](https://github.com/mrepol742/Hello_World/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/mrepol742/Hello_World/pulls) 
 
 This Github Public Repository contains Hello World Programs written in all Computer Language.
-
-## Computer Languages
-
-// File Extension | Computer Language
 
 - ABAP | Advanced Business Application Programming
 - ADA | Ada High-Level Programming Language
