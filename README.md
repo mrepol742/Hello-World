@@ -7,6 +7,7 @@ This Github Public Repository contains Hello World Programs written in all Compu
 - ABAP: Advanced Business Application Programming
 - ADA: Ada High-Level Programming Language
 - ASM: Assembly Language
+- ASTRO: Astro Web Framework
 - BAT: Batch
 - BF: Brainfuck Esoteric Programming Language
 - C: C Computer Programming Language
@@ -27,12 +28,14 @@ This Github Public Repository contains Hello World Programs written in all Compu
 - HS: Haskell Programming Language
 - HTML: Hypertext Markup Language
 - JAVA: Java Programming Language
+- JL: Julia Programming Language
 - JS: JavaScript Programming Language
 - KT: Kotlin Programming Language
 - LISP: Lisp Programming Language
 - LUA: Lua High-Level Programming Language
 - M: M Programming Language
 - MD: Markdown
+- NIM: Nim Programming Language
 - PAS: Pascal Programming Language
 - PHP: Hypertext Preprocessor Programming Language
 - PI: Picat Programming Language
@@ -43,8 +46,10 @@ This Github Public Repository contains Hello World Programs written in all Compu
 - RB: Ruby High-Level Programming Language
 - RS: Rust Programming Language
 - SH: Shell
+- SOL: Solidity Programming Language
 - SQL: SQL Programming Language
 - SWIFT: Swift Programming Language
 - TS: TypeScript Programming Language
 - TXT: Text
 - V: Verilog Programming Language
+- ZIG: Zig Programming Language
